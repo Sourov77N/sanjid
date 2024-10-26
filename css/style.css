@@ -1,0 +1,9 @@
+.kk{
+    background-color: cadetblue;
+    color: blueviolet;
+    text-align: center;
+    width: 400px;
+    
+    border: 10px dotted burlywood;
+    margin: 10px auto;
+}
